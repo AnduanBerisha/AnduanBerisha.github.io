@@ -23,7 +23,6 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
 <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine"> 
-<img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AnduanBerisha&show_icons=true&theme=tokyonight)
