@@ -26,3 +26,6 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AnduanBerisha&show_icons=true&theme=tokyonight)
+
+## About me
+> This guy probably loves coffe 
